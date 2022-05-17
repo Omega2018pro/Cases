@@ -1,6 +1,6 @@
 import discord
 import random
-from config_for_GigaBot import settings
+from config_for_Cases import settings
 
 
 s = 0
@@ -218,4 +218,4 @@ class MyClient(discord.Client):
 
 
 bot = MyClient()
-bot.run('ODkzNTc3NDEzMDcyNjY2NjQ0.YVde0Q.NoDbBBHYTj-XgqWcdr_O25h1FyI')
+bot.run('OTc2MTQ2MDcxNjkwNTQ3MjMx.GAr_oU.NNuMjbvvCC42n3uW6j7dYN8naMUr0vKhUMJaXk')
